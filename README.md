@@ -64,4 +64,7 @@ Available in the extension's preferences page:
 
 ## License
 
-[MIT](LICENSE)
+This repository was generated entirely using AI. I do not believe that I hold
+copyright in the generated material. To the extent that I hold any copyright
+interest in it, I license that interest under the
+[Apache License 2.0](LICENSE).
