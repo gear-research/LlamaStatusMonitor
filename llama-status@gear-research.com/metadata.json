@@ -1,0 +1,8 @@
+{
+  "uuid": "llama-status@gear-research.com",
+  "name": "Llama Status",
+  "description": "Shows which model is loaded on a llama.cpp server in the top panel.",
+  "shell-version": ["46"],
+  "url": "https://github.com/gear-research/LlamaStatusMonitor",
+  "settings-schema": "org.gnome.shell.extensions.llama-status"
+}

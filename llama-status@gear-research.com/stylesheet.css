@@ -1,0 +1,11 @@
+.llama-status-label {
+  max-width: 320px;
+}
+
+.llama-status-heading {
+  font-weight: bold;
+}
+
+.llama-status-loaded-item {
+  font-weight: bold;
+}
